@@ -1,0 +1,76 @@
+[
+  {
+    "firstName": "Daniel",
+    "lastName": "SK",
+    "birthDate": "1995-01-01",
+    "gender": "male",
+    "address": { "street" : "123 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+     "postalCode" : "A1A 1A1",
+     "country" : "Canada"
+    },
+    "phone" : "709-123-4567",
+     "salary" : "100000"
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "GK",
+    "birthDate": "1994-02-02",
+    "gender": "Female",
+    "address": { "street" : "234 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1B1",
+       "country" : "Canada"
+    },
+    "phone" : "709-234-5678",
+    "salary" : "150000"
+    
+  },
+  {
+    "firstName": "David",
+    "lastName": "Hanns",
+    "birthDate": "1993-03-03",
+    "gender": "male",
+    "address": { "street" : "345 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1C1",
+        "country" : "Canada"
+    },
+    "phone" : "709-321-4567",
+    "salary" : "200000"
+    
+  },
+  {
+    "firstName": "Mathew",
+    "lastName": "George",
+    "birthDate": "1992-04-04",
+    "gender": "male",
+    "address": { "street" : "456 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1D1",
+       "country" : "Canada"
+    },
+    "phone" : "709-143-1234",
+    "salary" : "250000"
+    
+  },
+  {
+    "firstName": "Shyamala",
+    "lastName": "Revel",
+    "birthDate": "1991-05-05",
+    "gender": "Female",
+    "address": { "street" : "567 Street",
+     "city" :"st johns",
+     "province" : "Nl",
+      "postalCode" : "A1A 1E1",
+       "country" : "Canada"
+    },
+    "phone" : "709-709-4567",
+    "salary" : "100000"
+    
+  }
+]
